@@ -11,3 +11,7 @@ parts
 -cooling
 -tyres
 -gears
+
+accidents
+-brake failues
+-sleeping while driving
