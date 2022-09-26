@@ -6,3 +6,8 @@
 TRUCKS
 -automatic
 -manual
+
+parts
+-cooling
+-tyres
+-gears
