@@ -15,3 +15,8 @@ parts
 accidents
 -brake failues
 -sleeping while driving
+
+riding gears
+-gloves
+-carry guards
+-fog lamps
