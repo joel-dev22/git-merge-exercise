@@ -20,3 +20,8 @@ riding gears
 -gloves
 -carry guards
 -fog lamps
+
+enemies
+-police
+-thief
+-truks
