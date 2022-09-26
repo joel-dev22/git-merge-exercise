@@ -2,3 +2,7 @@
 -automatic
 -DCT
 -AST
+
+TRUCKS
+-automatic
+-manual

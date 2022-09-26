@@ -4,3 +4,7 @@ Companies:
 -bmw
 -mercedes
 -porshe
+
+TRUCKS
+scania
+mercedes
